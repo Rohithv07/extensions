@@ -1,0 +1,11 @@
+{
+    "name": "Covid stat",
+    "version": "1.0",
+    "description": "dynamic covid data from api",
+    "manifest_version": 3,
+    "author": "rohith",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Covid Stat"
+    }
+}
